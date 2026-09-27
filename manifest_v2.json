@@ -1,0 +1,69 @@
+{
+  "item": {
+    "id": "com.hazenotea.sokuban.watch",
+    "restype": "quick_app",
+    "name": "推箱子",
+    "description": "经典推箱子游戏，完全免费，多种设备适配，精选60关卡，烧脑解谜。",
+    "preview": [
+      "media/AI修复大图.png",
+      "media/宣传图.png"
+    ],
+    "icon": "media/ab_logo.png",
+    "cover": "media/AI修复大图.png",
+    "author": [
+      {
+        "name": "HazeNoTea",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.sokuban.watch.release.1.0.0-xmrw5.rpk",
+      "versionCode": 1
+    },
+    "xmrw5xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.sokuban.watch.release.1.0.0-xmrw5xring.rpk",
+      "versionCode": 1
+    },
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.sokuban.watch.release.1.0.0-xmrw6.rpk",
+      "versionCode": 1
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.sokuban.watch.release.1.0.0-xmb10.rpk",
+      "versionCode": 1
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.sokuban.watch.release.1.0.0-xmb10nfc.rpk",
+      "versionCode": 1
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.sokuban.watch.release.1.0.0-xmb10p.rpk",
+      "versionCode": 1
+    },
+    "xmws4xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.sokuban.watch.release.1.0.0-xmws4xring.rpk",
+      "versionCode": 1
+    },
+    "xmws441": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.sokuban.watch.release.1.0.0-xmws441.rpk",
+      "versionCode": 1
+    },
+    "xmws4": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.sokuban.watch.release.1.0.0-xmws4.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
