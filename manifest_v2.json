@@ -3,7 +3,7 @@
     "id": "com.hazenotea.sokuban.watch",
     "restype": "quick_app",
     "name": "推箱子",
-    "description": "完全免费，多设备适配，精选80关卡，且内置地图编辑器",
+    "description": "完全免费，多设备适配，精选90关卡，且内置地图编辑器。\n\nv1.5.0修改了图标大小，部分设备更新后可能导致图标显示异常，删除游戏，重启后重新安装即可。",
     "preview": [
       "media/AI修复大图.png",
       "media/宣传图.png",
@@ -22,69 +22,69 @@
   "links": [],
   "downloads": {
     "xmrw5": {
-      "version": "1.4.0",
-      "file_name": "downloads/推箱子v1.4.0-全平台.rpk",
-      "versionCode": 7
+      "version": "1.5.0",
+      "file_name": "downloads/推箱子v1.5.0-全平台.rpk",
+      "versionCode": 9
     },
     "xmrw5xring": {
-      "version": "1.4.0",
-      "file_name": "downloads/推箱子v1.4.0-全平台.rpk",
-      "versionCode": 7
+      "version": "1.5.0",
+      "file_name": "downloads/推箱子v1.5.0-全平台.rpk",
+      "versionCode": 9
     },
     "xmrw6": {
-      "version": "1.4.0",
-      "file_name": "downloads/推箱子v1.4.0-全平台.rpk",
-      "versionCode": 7
+      "version": "1.5.0",
+      "file_name": "downloads/推箱子v1.5.0-全平台.rpk",
+      "versionCode": 9
     },
     "xmb10": {
-      "version": "1.4.0",
-      "file_name": "downloads/推箱子v1.4.0-全平台.rpk",
-      "versionCode": 7
+      "version": "1.5.0",
+      "file_name": "downloads/推箱子v1.5.0-全平台.rpk",
+      "versionCode": 9
     },
     "xmb10nfc": {
-      "version": "1.4.0",
-      "file_name": "downloads/推箱子v1.4.0-全平台.rpk",
-      "versionCode": 7
+      "version": "1.5.0",
+      "file_name": "downloads/推箱子v1.5.0-全平台.rpk",
+      "versionCode": 9
     },
     "xmb10p": {
-      "version": "1.4.0",
-      "file_name": "downloads/推箱子v1.4.0-全平台.rpk",
-      "versionCode": 7
+      "version": "1.5.0",
+      "file_name": "downloads/推箱子v1.5.0-全平台.rpk",
+      "versionCode": 9
     },
     "xmws4xring": {
-      "version": "1.4.0",
-      "file_name": "downloads/推箱子v1.4.0-全平台.rpk",
-      "versionCode": 7
+      "version": "1.5.0",
+      "file_name": "downloads/推箱子v1.5.0-全平台.rpk",
+      "versionCode": 9
     },
     "xmws441": {
-      "version": "1.4.0",
-      "file_name": "downloads/推箱子v1.4.0-全平台.rpk",
-      "versionCode": 7
+      "version": "1.5.0",
+      "file_name": "downloads/推箱子v1.5.0-全平台.rpk",
+      "versionCode": 9
     },
     "xmws4": {
-      "version": "1.4.0",
-      "file_name": "downloads/推箱子v1.4.0-全平台.rpk",
-      "versionCode": 7
+      "version": "1.5.0",
+      "file_name": "downloads/推箱子v1.5.0-全平台.rpk",
+      "versionCode": 9
     },
     "xmb11": {
-      "version": "1.4.0",
-      "file_name": "downloads/推箱子v1.4.0-全平台.rpk",
-      "versionCode": 7
+      "version": "1.5.0",
+      "file_name": "downloads/推箱子v1.5.0-全平台.rpk",
+      "versionCode": 9
     },
     "xmb11nfc": {
-      "version": "1.4.0",
-      "file_name": "downloads/推箱子v1.4.0-全平台.rpk",
-      "versionCode": 7
+      "version": "1.5.0",
+      "file_name": "downloads/推箱子v1.5.0-全平台.rpk",
+      "versionCode": 9
     },
     "xmb9p": {
-      "version": "1.4.0",
-      "file_name": "downloads/推箱子v1.4.0-全平台.rpk",
-      "versionCode": 7
+      "version": "1.5.0",
+      "file_name": "downloads/推箱子v1.5.0-全平台.rpk",
+      "versionCode": 9
     },
     "xmb9": {
-      "version": "1.4.0",
-      "file_name": "downloads/推箱子v1.4.0-全平台.rpk",
-      "versionCode": 7
+      "version": "1.5.0",
+      "file_name": "downloads/推箱子v1.5.0-全平台.rpk",
+      "versionCode": 9
     }
   },
   "ext": {}
